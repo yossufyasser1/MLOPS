@@ -1,2 +1,2 @@
 # MLops-zoomcamp
-testing github
+testing
